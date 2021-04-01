@@ -1,8 +1,8 @@
-// var x = 5; // Initialize x
-// var y;
-// console.log(x,y);        // Display x and y
+var x = 5; // Initialize x
+var y;
+console.log(x,y);        // Display x and y
 
-// y = 7; // Initialize y
+y = 7; // Initialize y
 
 // let x = 20,
 //     y = 10;
